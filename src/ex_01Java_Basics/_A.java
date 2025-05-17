@@ -1,4 +1,4 @@
 package ex_01Java_Basics;
 
-public class _ {
+public class _A {
 }
